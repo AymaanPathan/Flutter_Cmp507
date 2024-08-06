@@ -52,6 +52,6 @@ Each project has been built for web and is hosted on GitHub Pages. You can acces
 
 ## Owner
 
-### [Abhiraj Chaudhuri](https://github.com/abhie7) - 22000214 (Navrachana University)
+Aymaan 22000545
 
 Feel free to explore each project and provide feedback. Happy coding!
